@@ -8,7 +8,7 @@ Arduino Micro & APDS-9960
 
 # 文件介绍：
 
-## CAD 文件:
+## CADs 目录:
 
 - `keep_out.dwg`
 
@@ -18,11 +18,15 @@ PCB 边框切割以及螺丝孔文件
 
 亚克力外壳切割文件
 
+## PCB工程目录：
+
 - `GestureRecongnition_vx.x`目录
 
 开源PCB工具`KiCAD`项目工程文件，`vx.x`为版本号
 
 `v0.x`为测试版本
+
+## Docs目录：
 
 - `APDS9960.pdf`
 
@@ -39,3 +43,13 @@ ATMEL公司`ATMEGA32U4`芯片数据手册
 - `SPX3819-3.3.pdf`
 
 `SPX3819` LDO指定输出3.3V芯片手册
+
+## Pics目录：
+
+- `view_F.jpg`:
+
+PCB 3D预览顶视图
+
+- `view_B.jpg`:
+
+PCB 3D预览底视图
