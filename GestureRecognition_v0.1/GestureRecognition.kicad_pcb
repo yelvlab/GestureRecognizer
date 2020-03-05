@@ -184,7 +184,7 @@
   (module BPI:TS-018_TS24CA (layer B.Cu) (tedit 5E60ABE6) (tstamp 5E612910)
     (at 155.11272 89.97696 180)
     (path /5E60D38F)
-    (fp_text reference K1 (at -4.46 2.46) (layer B.SilkS)
+    (fp_text reference K1 (at -0.01524 3.69824) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value TS-018_TS24CA (at -4.14 3.82) (layer B.Fab)
